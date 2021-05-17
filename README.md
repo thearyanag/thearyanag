@@ -7,15 +7,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=thearyanag.thearyanag)
 
-I am a full-stack Website developer. I love programming, writing, speaking and traveling.
-
-Just to make a change in the world
-
-
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: agarwalaryan139@gmail.com;
 
 </br>
