@@ -22,9 +22,6 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-📈 **My GitHub Stats:**
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thearyanag&count_private=true&show_icons=true&theme=dark))](https://github.com/thearyanag)
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thearyanag&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearyanag&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thearyanag&hide=html,css&layout=compact)](https://github.com/thearyanag)
