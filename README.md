@@ -1,7 +1,5 @@
 ### Hi there 👋, Aryan here.
 #### a dev who likes to build cool stuff
-![a dev who likes to build cool stuff](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 Skills: Python, Django, ExpressJS, Fastify, ReactJS, web3.js
 
