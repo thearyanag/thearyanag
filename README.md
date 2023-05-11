@@ -16,7 +16,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an NFT gallery on Solana | Build with Helius](https://0xaryan.hashnode.dev/build-an-nft-gallery-on-solana-build-with-helius)
+- [Build an NFT gallery on Solana | Build on Solana](https://0xaryan.hashnode.dev/build-an-nft-gallery-on-solana)
 - [Push Protocol - communication layer of web3](https://0xaryan.hashnode.dev/push-protocol-communication-layer-of-web3)
 - [Elusiv - privacy layer for Solana](https://0xaryan.hashnode.dev/elusiv-privacy-layer-for-solana)
 <!-- BLOG-POST-LIST:END -->
