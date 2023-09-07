@@ -1,9 +1,7 @@
 <h1 align="center">hey👋, aryan this side.</h1>
 <h3 align="center">dev, I like to build cool stuff.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thearyanag&label=Profile%20views&color=0e75b6&style=flat" alt="thearyanag" /> </p>
-
-<p align="left"> <a href="https://twitter.com/_0xaryan" target="blank"><img src="https://img.shields.io/twitter/follow/_0xaryan?logo=twitter&style=for-the-badge" alt="_0xaryan" /></a> </p>
+<p align="left"> <a href="https://x.com/_0xaryan" target="blank"><img src="https://img.shields.io/twitter/follow/_0xaryan?logo=twitter&style=for-the-badge" alt="_0xaryan" /></a> </p>
 
 - 🔭 I’m currently working on **something cool**
 
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_0xaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_0xaryan" height="30" width="40" /></a>
+<a href="https://x.com/_0xaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_0xaryan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thearyanag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thearyanag" height="30" width="40" /></a>
 <a href="https://hashnode.com/@0xaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@0xaryan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@thearyanag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thearyanag" height="30" width="40" /></a>
