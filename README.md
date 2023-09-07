@@ -1,8 +1,6 @@
 <h1 align="center">hey👋, aryan this side.</h1>
 <h3 align="center">dev, I like to build cool stuff.</h3>
 
-<p align="left"> <a href="https://x.com/_0xaryan" target="blank"><img src="https://img.shields.io/twitter/follow/_0xaryan?logo=twitter&style=for-the-badge" alt="_0xaryan" /></a> </p>
-
 - 🔭 I’m currently working on **something cool**
 
 - 🌱 I’m currently learning **a lot of things**
