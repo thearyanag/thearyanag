@@ -17,5 +17,5 @@
 <a href="https://www.youtube.com/c/@thearyanag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thearyanag" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/thearyanag"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thearyanag" /></a></p><br><br>
+<h3>Support</h3>
+Solana = 0xaryan.sol
